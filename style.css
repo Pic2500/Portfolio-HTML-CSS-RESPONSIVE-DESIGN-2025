@@ -348,7 +348,7 @@ body {
 /* --- Tablets (max-width: 768px) --- */
 @media (max-width: 768px) {
   nav.navbar {
-    display: none; /* Hide navbar for now (can be turned into hamburger later) */
+    display: none; 
   }
 
   .home {
